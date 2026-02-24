@@ -6,7 +6,8 @@ function App() {
           Welcome to Vite + React + Tailwind
         </h1>
         <h1>create branch to create conflict</h1>
-
+    <label htmlFor="">now resolve the conflict</label>
+        <h1>create h1 on main to create conflict with two branchs</h1>
         <p className="text-gray-600">
           Start building your amazing app!
         </p>
